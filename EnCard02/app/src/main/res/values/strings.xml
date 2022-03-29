@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnCard02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categoty">Новая категория</string>
+    <string name="name_ofPick">Название картинки</string>
+    <string name="name_of_categoty">Ключевое слово</string>
+    <string name="create">Создать</string>
+</resources>
